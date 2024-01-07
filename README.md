@@ -1,4 +1,6 @@
-### Hi there 👋
+Hey!
+
+I am a student trying to learn web development and working on some small projects.
 
 <!--
 **Adidans/Adidans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
